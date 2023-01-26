@@ -1,0 +1,13 @@
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid red;
+  max-width: 200px;
+  padding: 10px 5px;
+}
